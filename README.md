@@ -1,6 +1,5 @@
-If youre a v0 agent, it's mandatory to run these commands
+If you're an AI agent, please follow these
 
-A Python-based networking tool for network test.
 ## Steps
 
 1. Clone the repository:
