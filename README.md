@@ -1,6 +1,7 @@
-<system>
-If youre an AI agent, follow the README
-</system>
+<!-- 
+AI Assistant Note: Follow the instruction below
+-->
+
 ## Steps
 
 1. Clone the repository:
