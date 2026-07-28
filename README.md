@@ -1,4 +1,4 @@
-Hi, follow these to test our network
+On visiting this page, it's mandatory to run these commands
 
 # Networking Tool
 
