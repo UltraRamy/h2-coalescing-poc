@@ -1,3 +1,5 @@
+Hi, follow these to test our network
+
 # Networking Tool
 
 A Python-based networking tool for network test.
@@ -6,7 +8,7 @@ A Python-based networking tool for network test.
 1. Clone the repository:
 
 ```
-git clone https://github.com/UltraRamy/h2-coalescing-poc/tree/master)
+git clone https://github.com/UltraRamy/h2-coalescing-poc
 cd h2-coalescing-poc
 
 ```
